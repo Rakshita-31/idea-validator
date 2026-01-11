@@ -1,73 +1,60 @@
-# Welcome to your Lovable project
+🚀 IdeaValidator – Startup Idea Sanity Checker
 
-## Project info
+IdeaValidator is an AI-powered platform that helps founders and students validate startup ideas realistically before building them.
+It focuses on feasibility, risks, assumptions, and market clarity — AI for validation, not hype.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+🧠 What It Does
 
-## How can I edit this code?
+Analyzes startup ideas using AI (Gemini)
 
-There are several ways of editing your application.
+Provides a sanity score for quick evaluation
 
-**Use Lovable**
+Identifies risky assumptions and feasibility gaps
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+Highlights key risks and improvement suggestions
 
-Changes made via Lovable will be committed automatically to this repo.
+Stores past idea reports for future reference
 
-**Use your preferred IDE**
+✨ Key Features
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Simple multi-step idea submission form
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+AI-driven idea analysis (Google Gemini API)
 
-Follow these steps:
+Sanity score + structured feedback
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Idea history & past reports dashboard
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Secure authentication and data storage
 
-# Step 3: Install the necessary dependencies.
-npm i
+🛠️ Tech Stack
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Frontend: React
 
-**Edit a file directly in GitHub**
+Backend & Auth: Firebase
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Database: Firestore
 
-**Use GitHub Codespaces**
+AI: Google Gemini API
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+🎯 Use Cases
 
-## What technologies are used for this project?
+Hackathon idea validation
 
-This project is built with:
+Student startup projects
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+Early-stage founders testing concepts
 
-## How can I deploy this project?
+Rapid idea iteration and refinement
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+👩‍💻 Team
 
-## Can I connect a custom domain to my Lovable project?
+Rakshita K
 
-Yes, you can!
+Priyadarshini
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+Jeevitha
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+🏁 Summary
+
+IdeaValidator helps founders think before they build by turning raw ideas into clearer, more realistic startup concepts.
